@@ -1,0 +1,10 @@
+C:\Users\Giannis\source\repos\TheTruthIsOutThere\bin\Debug\TheTruthIsOutThere.exe.config
+C:\Users\Giannis\source\repos\TheTruthIsOutThere\bin\Debug\TheTruthIsOutThere.exe
+C:\Users\Giannis\source\repos\TheTruthIsOutThere\bin\Debug\TheTruthIsOutThere.pdb
+C:\Users\Giannis\source\repos\TheTruthIsOutThere\obj\Debug\TheTruthIsOutThere.csprojResolveAssemblyReference.cache
+C:\Users\Giannis\source\repos\TheTruthIsOutThere\obj\Debug\TheTruthIsOutThere.Form1.resources
+C:\Users\Giannis\source\repos\TheTruthIsOutThere\obj\Debug\TheTruthIsOutThere.Properties.Resources.resources
+C:\Users\Giannis\source\repos\TheTruthIsOutThere\obj\Debug\TheTruthIsOutThere.csproj.GenerateResource.Cache
+C:\Users\Giannis\source\repos\TheTruthIsOutThere\obj\Debug\TheTruthIsOutThere.csproj.CoreCompileInputs.cache
+C:\Users\Giannis\source\repos\TheTruthIsOutThere\obj\Debug\TheTruthIsOutThere.exe
+C:\Users\Giannis\source\repos\TheTruthIsOutThere\obj\Debug\TheTruthIsOutThere.pdb
